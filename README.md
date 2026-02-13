@@ -4,6 +4,7 @@ Responsive dashboard built with React, TypeScript, Refine, MUI, React Query and 
 
 ## Run
 npm install
+
 npm run dev
 
 ## Architecture
